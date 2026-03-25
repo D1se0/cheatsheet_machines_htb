@@ -2,7 +2,7 @@
 
 ¡Bienvenido al **HTB Machines CheatSheet** de d1se0!  
 
-Esta página web está diseñada para **visualizar de manera rápida y visual todas las máquinas hackeadas en Hack The Box (HTB)** por el usuario [d1se0](https://www.hackthebox.eu/home/users/profile/1940973) (HTB ID: 1940973). La idea es tener un dashboard interactivo que permita consultar técnicas usadas, dificultad, fechas y otros detalles de cada máquina.
+Esta página web está diseñada para **visualizar de manera rápida y visual todas las máquinas hackeadas en Hack The Box (HTB)** por el usuario [d1se0](https://app.hackthebox.com/users/1940973) (HTB ID: 1940973). La idea es tener un dashboard interactivo que permita consultar técnicas usadas, dificultad, fechas y otros detalles de cada máquina.
 
 ---
 
